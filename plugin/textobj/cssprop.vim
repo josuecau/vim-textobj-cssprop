@@ -1,12 +1,3 @@
-" cssprop.vim
-"
-" Author: iNo
-" Version: 1.0
-" Licence: MIT license
-" LastUpdated:2013/09/11 13:34:02.
-" file created in 2013/09/11 09:45:57.
-"
-
 if exists('g:loaded_textobj_cssprop')
   finish
 endif
